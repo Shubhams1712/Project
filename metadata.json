@@ -1,0 +1,6 @@
+{
+  "name": "ThinkBeforeYouShare",
+  "description": "A clean, modern public-awareness platform helping people recognise fake news, verify online claims, and stop the spread of misinformation on social media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
